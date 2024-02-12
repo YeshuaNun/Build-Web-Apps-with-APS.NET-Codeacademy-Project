@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\bin\Debug\net8.0\working_with_numbers.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\bin\Debug\net8.0\working_with_numbers.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\bin\Debug\net8.0\working_with_numbers.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\bin\Debug\net8.0\working_with_numbers.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\bin\Debug\net8.0\working_with_numbers.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\obj\Debug\net8.0\working_with_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\obj\Debug\net8.0\working_with_numbers.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\obj\Debug\net8.0\working_with_numbers.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\obj\Debug\net8.0\working_with_numbers.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\obj\Debug\net8.0\working_with_numbers.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\obj\Debug\net8.0\working_with_numbers.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\obj\Debug\net8.0\refint\working_with_numbers.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\obj\Debug\net8.0\working_with_numbers.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\obj\Debug\net8.0\working_with_numbers.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\working_with_numbers\obj\Debug\net8.0\ref\working_with_numbers.dll
