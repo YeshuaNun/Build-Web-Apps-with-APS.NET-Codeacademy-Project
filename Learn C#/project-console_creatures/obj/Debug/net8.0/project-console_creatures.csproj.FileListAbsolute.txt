@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\bin\Debug\net8.0\project-console_creatures.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\bin\Debug\net8.0\project-console_creatures.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\bin\Debug\net8.0\project-console_creatures.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\bin\Debug\net8.0\project-console_creatures.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\bin\Debug\net8.0\project-console_creatures.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\obj\Debug\net8.0\project-console_creatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\obj\Debug\net8.0\project-console_creatures.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\obj\Debug\net8.0\project-console_creatures.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\obj\Debug\net8.0\project-console_creatures.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\obj\Debug\net8.0\project-console_creatures.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\obj\Debug\net8.0\project-console_creatures.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\obj\Debug\net8.0\refint\project-console_creatures.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\obj\Debug\net8.0\project-console_creatures.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\obj\Debug\net8.0\project-console_creatures.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C#\project-console_creatures\obj\Debug\net8.0\ref\project-console_creatures.dll
