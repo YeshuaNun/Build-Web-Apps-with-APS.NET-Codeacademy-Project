@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\bin\Debug\net8.0\project-mad_libs.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\bin\Debug\net8.0\project-mad_libs.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\bin\Debug\net8.0\project-mad_libs.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\bin\Debug\net8.0\project-mad_libs.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\bin\Debug\net8.0\project-mad_libs.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\obj\Debug\net8.0\project-mad_libs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\obj\Debug\net8.0\project-mad_libs.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\obj\Debug\net8.0\project-mad_libs.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\obj\Debug\net8.0\project-mad_libs.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\obj\Debug\net8.0\project-mad_libs.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\obj\Debug\net8.0\project-mad_libs.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\obj\Debug\net8.0\refint\project-mad_libs.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\obj\Debug\net8.0\project-mad_libs.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\obj\Debug\net8.0\project-mad_libs.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-mad_libs\obj\Debug\net8.0\ref\project-mad_libs.dll
