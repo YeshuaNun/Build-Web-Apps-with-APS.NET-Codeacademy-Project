@@ -7,7 +7,7 @@ This lesson focused on the different data types and the first stages of converti
 
 # Lesson: Working with numbers
 
-This lesson focused on how to work with numbers. It also introduced the first look at using documentation to find out how methods work.
+This lesson focused on how to work with numbers. It also introduced the first look at using documentation to find out how methods work, specifically those related to number manipulation.
 
 # Lesson: Introduction to Working with Text
 
