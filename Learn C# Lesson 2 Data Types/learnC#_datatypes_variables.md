@@ -11,3 +11,5 @@ This lesson focused on how to work with numbers. It also introduced the first lo
 
 # Lesson: Introduction to Working with Text
 
+This lesson focused on how to work with text and strings. It also introduced the first look at using string methods with C#.
+
