@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\bin\Debug\net8.0\understanding_logic_in_C#.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\bin\Debug\net8.0\understanding_logic_in_C#.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\bin\Debug\net8.0\understanding_logic_in_C#.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\bin\Debug\net8.0\understanding_logic_in_C#.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\bin\Debug\net8.0\understanding_logic_in_C#.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\obj\Debug\net8.0\understanding_logic_in_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\obj\Debug\net8.0\understanding_logic_in_C#.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\obj\Debug\net8.0\understanding_logic_in_C#.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\obj\Debug\net8.0\understanding_logic_in_C#.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\obj\Debug\net8.0\understanding_logic_in_C#.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\obj\Debug\net8.0\understanding_logic_in_C#.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\obj\Debug\net8.0\refint\understanding_logic_in_C#.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\obj\Debug\net8.0\understanding_logic_in_C#.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\obj\Debug\net8.0\understanding_logic_in_C#.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\understanding_logic_in_C#\obj\Debug\net8.0\ref\understanding_logic_in_C#.dll
