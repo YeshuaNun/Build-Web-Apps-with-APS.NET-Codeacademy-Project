@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\bin\Debug\net8.0\project-money_maker.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\bin\Debug\net8.0\project-money_maker.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\bin\Debug\net8.0\project-money_maker.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\bin\Debug\net8.0\project-money_maker.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\bin\Debug\net8.0\project-money_maker.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\obj\Debug\net8.0\project-money_maker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\obj\Debug\net8.0\project-money_maker.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\obj\Debug\net8.0\project-money_maker.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\obj\Debug\net8.0\project-money_maker.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\obj\Debug\net8.0\project-money_maker.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\obj\Debug\net8.0\project-money_maker.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\obj\Debug\net8.0\refint\project-money_maker.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\obj\Debug\net8.0\project-money_maker.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\obj\Debug\net8.0\project-money_maker.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 2 Data Types\project-money_maker\obj\Debug\net8.0\ref\project-money_maker.dll
