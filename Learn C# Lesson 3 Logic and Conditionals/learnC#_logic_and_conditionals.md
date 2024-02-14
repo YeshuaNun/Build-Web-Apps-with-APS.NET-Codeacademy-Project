@@ -8,3 +8,7 @@ The focus for this lesson is to explore how C# uses logic to explore relationshi
 # Lesson: Understanding Logic in C#
 
 This lesson introduced variables of the bool data type. It also included how to use comparison operators with different data types to return boolean values.
+
+# Lesson: Conditional Statements
+
+This lesson introduced If, If...else, and Else If statements. Also showed how to streamline code using Switch Statements and Ternary Operators.
