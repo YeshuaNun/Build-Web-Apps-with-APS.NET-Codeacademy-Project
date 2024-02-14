@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("project-password_checker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edfaec0b76d0ef0ad28b0142faa0dbb2395795bb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+972fbbb22e52ef9a527d0b75d0afc9e5072345fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("project-password_checker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("project-password_checker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
