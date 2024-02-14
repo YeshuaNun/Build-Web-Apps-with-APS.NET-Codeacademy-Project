@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\bin\Debug\net8.0\conditional_statements.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\bin\Debug\net8.0\conditional_statements.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\bin\Debug\net8.0\conditional_statements.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\bin\Debug\net8.0\conditional_statements.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\bin\Debug\net8.0\conditional_statements.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\obj\Debug\net8.0\conditional_statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\obj\Debug\net8.0\conditional_statements.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\obj\Debug\net8.0\conditional_statements.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\obj\Debug\net8.0\conditional_statements.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\obj\Debug\net8.0\conditional_statements.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\obj\Debug\net8.0\conditional_statements.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\obj\Debug\net8.0\refint\conditional_statements.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\obj\Debug\net8.0\conditional_statements.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\obj\Debug\net8.0\conditional_statements.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 3 Logic and Conditionals\conditional_statements\obj\Debug\net8.0\ref\conditional_statements.dll
