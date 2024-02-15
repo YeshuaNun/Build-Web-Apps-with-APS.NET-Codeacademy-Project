@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\bin\Debug\net8.0\method_calls_and_input.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\bin\Debug\net8.0\method_calls_and_input.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\bin\Debug\net8.0\method_calls_and_input.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\bin\Debug\net8.0\method_calls_and_input.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\bin\Debug\net8.0\method_calls_and_input.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\obj\Debug\net8.0\method_calls_and_input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\obj\Debug\net8.0\method_calls_and_input.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\obj\Debug\net8.0\method_calls_and_input.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\obj\Debug\net8.0\method_calls_and_input.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\obj\Debug\net8.0\method_calls_and_input.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\obj\Debug\net8.0\method_calls_and_input.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\obj\Debug\net8.0\refint\method_calls_and_input.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\obj\Debug\net8.0\method_calls_and_input.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\obj\Debug\net8.0\method_calls_and_input.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\method_calls_and_input\obj\Debug\net8.0\ref\method_calls_and_input.dll
