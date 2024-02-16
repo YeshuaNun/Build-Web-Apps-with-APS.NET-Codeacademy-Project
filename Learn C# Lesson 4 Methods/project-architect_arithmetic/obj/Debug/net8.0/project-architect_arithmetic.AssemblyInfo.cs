@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("project-architect_arithmetic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cde627ad0ba37ed487c5d5590780c2361f251839")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b3936a04c312b7d0d1e0f6522746adf800278f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("project-architect_arithmetic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("project-architect_arithmetic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
