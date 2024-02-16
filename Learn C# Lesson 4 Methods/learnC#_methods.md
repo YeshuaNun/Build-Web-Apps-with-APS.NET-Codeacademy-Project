@@ -11,3 +11,7 @@ The end of the lesson looked at method overloading. This is where we can define 
 # Lesson: Method Output
 
 This lesson focuses on the possible output from a method. Introducing the use of the 'return' and 'out' keyword when using methods.
+
+# Lesson: Alternate Expressions
+
+This lesson introduced expression-bodied and lambda expressions as a way of using short-cuts to define methods.
