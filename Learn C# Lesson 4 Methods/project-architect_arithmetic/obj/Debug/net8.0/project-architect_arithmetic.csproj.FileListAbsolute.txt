@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\bin\Debug\net8.0\project-architect_arithmetic.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\bin\Debug\net8.0\project-architect_arithmetic.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\bin\Debug\net8.0\project-architect_arithmetic.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\bin\Debug\net8.0\project-architect_arithmetic.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\bin\Debug\net8.0\project-architect_arithmetic.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\obj\Debug\net8.0\project-architect_arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\obj\Debug\net8.0\project-architect_arithmetic.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\obj\Debug\net8.0\project-architect_arithmetic.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\obj\Debug\net8.0\project-architect_arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\obj\Debug\net8.0\project-architect_arithmetic.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\obj\Debug\net8.0\project-architect_arithmetic.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\obj\Debug\net8.0\refint\project-architect_arithmetic.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\obj\Debug\net8.0\project-architect_arithmetic.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\obj\Debug\net8.0\project-architect_arithmetic.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-architect_arithmetic\obj\Debug\net8.0\ref\project-architect_arithmetic.dll
