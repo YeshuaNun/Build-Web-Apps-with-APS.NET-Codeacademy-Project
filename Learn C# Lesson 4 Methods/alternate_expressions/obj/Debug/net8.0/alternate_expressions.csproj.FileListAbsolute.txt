@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\bin\Debug\net8.0\alternate_expressions.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\bin\Debug\net8.0\alternate_expressions.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\bin\Debug\net8.0\alternate_expressions.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\bin\Debug\net8.0\alternate_expressions.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\bin\Debug\net8.0\alternate_expressions.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\obj\Debug\net8.0\alternate_expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\obj\Debug\net8.0\alternate_expressions.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\obj\Debug\net8.0\alternate_expressions.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\obj\Debug\net8.0\alternate_expressions.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\obj\Debug\net8.0\alternate_expressions.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\obj\Debug\net8.0\alternate_expressions.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\obj\Debug\net8.0\refint\alternate_expressions.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\obj\Debug\net8.0\alternate_expressions.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\obj\Debug\net8.0\alternate_expressions.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\alternate_expressions\obj\Debug\net8.0\ref\alternate_expressions.dll
