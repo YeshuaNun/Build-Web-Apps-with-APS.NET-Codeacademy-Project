@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\bin\Debug\net8.0\project-exquisite_corpse.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\bin\Debug\net8.0\project-exquisite_corpse.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\bin\Debug\net8.0\project-exquisite_corpse.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\bin\Debug\net8.0\project-exquisite_corpse.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\bin\Debug\net8.0\project-exquisite_corpse.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\obj\Debug\net8.0\project-exquisite_corpse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\obj\Debug\net8.0\project-exquisite_corpse.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\obj\Debug\net8.0\project-exquisite_corpse.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\obj\Debug\net8.0\project-exquisite_corpse.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\obj\Debug\net8.0\project-exquisite_corpse.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\obj\Debug\net8.0\project-exquisite_corpse.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\obj\Debug\net8.0\refint\project-exquisite_corpse.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\obj\Debug\net8.0\project-exquisite_corpse.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\obj\Debug\net8.0\project-exquisite_corpse.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 4 Methods\project-exquisite_corpse\obj\Debug\net8.0\ref\project-exquisite_corpse.dll
