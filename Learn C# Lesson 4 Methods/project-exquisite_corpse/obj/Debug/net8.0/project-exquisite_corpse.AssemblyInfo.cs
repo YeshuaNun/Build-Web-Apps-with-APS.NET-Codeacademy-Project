@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("project-exquisite_corpse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95c7a348c02cbbbb3c9dcd9bfcc6ec20e2c579f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dfcb9b1d19082575f26c346b3ccc4c3d682972e")]
 [assembly: System.Reflection.AssemblyProductAttribute("project-exquisite_corpse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("project-exquisite_corpse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
