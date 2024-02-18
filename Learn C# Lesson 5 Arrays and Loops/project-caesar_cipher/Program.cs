@@ -14,17 +14,21 @@ namespace CaesarCipher
       string secretMessage = Console.ReadLine();
       char[] secretMessageArr = secretMessage.ToCharArray();
       int messageLength = secretMessageArr.Length;
-      char[] encryptedMessage = new char[messageLength];
+      char[] encryptedMessageArr = new char[messageLength];
       for (int i=0; i<messageLength; i++) {
-        int alphabetIndex = Array.IndexOf(alphabet, i);
+        int alphabetIndex = Array.IndexOf(alphabet, secretMessageArr[i]);
         if (alphabetIndex!=-1) {
           alphabetIndex+=3;
           if (alphabetIndex>25) {
-            alphabetIndex-=25;
+            alphabetIndex-=26;
           }
-          Console.WriteLine(alphabet[alphabetIndex]);
+          encryptedMessageArr[i]=alphabet[alphabetIndex];
+        } else {
+          encryptedMessageArr[i]=secretMessageArr[i];
         }
       }     
+      string encryptedMessage = string.Join("", encryptedMessageArr);
+      Console.WriteLine(encryptedMessage);
     }
   }
 }
