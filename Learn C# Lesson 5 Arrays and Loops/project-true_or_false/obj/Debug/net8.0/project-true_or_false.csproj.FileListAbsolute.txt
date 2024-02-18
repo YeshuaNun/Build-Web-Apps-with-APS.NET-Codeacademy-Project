@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\bin\Debug\net8.0\project-true_or_false.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\bin\Debug\net8.0\project-true_or_false.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\bin\Debug\net8.0\project-true_or_false.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\bin\Debug\net8.0\project-true_or_false.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\bin\Debug\net8.0\project-true_or_false.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\obj\Debug\net8.0\project-true_or_false.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\obj\Debug\net8.0\project-true_or_false.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\obj\Debug\net8.0\project-true_or_false.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\obj\Debug\net8.0\project-true_or_false.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\obj\Debug\net8.0\project-true_or_false.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\obj\Debug\net8.0\project-true_or_false.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\obj\Debug\net8.0\refint\project-true_or_false.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\obj\Debug\net8.0\project-true_or_false.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\obj\Debug\net8.0\project-true_or_false.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-true_or_false\obj\Debug\net8.0\ref\project-true_or_false.dll
