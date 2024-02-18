@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\bin\Debug\net8.0\project-caesar_cipher.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\bin\Debug\net8.0\project-caesar_cipher.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\bin\Debug\net8.0\project-caesar_cipher.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\bin\Debug\net8.0\project-caesar_cipher.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\bin\Debug\net8.0\project-caesar_cipher.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\obj\Debug\net8.0\project-caesar_cipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\obj\Debug\net8.0\project-caesar_cipher.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\obj\Debug\net8.0\project-caesar_cipher.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\obj\Debug\net8.0\project-caesar_cipher.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\obj\Debug\net8.0\project-caesar_cipher.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\obj\Debug\net8.0\project-caesar_cipher.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\obj\Debug\net8.0\refint\project-caesar_cipher.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\obj\Debug\net8.0\project-caesar_cipher.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\obj\Debug\net8.0\project-caesar_cipher.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 5 Arrays and Loops\project-caesar_cipher\obj\Debug\net8.0\ref\project-caesar_cipher.dll
