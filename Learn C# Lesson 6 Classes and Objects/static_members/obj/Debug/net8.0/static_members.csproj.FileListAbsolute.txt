@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\bin\Debug\net8.0\static_members.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\bin\Debug\net8.0\static_members.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\bin\Debug\net8.0\static_members.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\bin\Debug\net8.0\static_members.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\bin\Debug\net8.0\static_members.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\obj\Debug\net8.0\static_members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\obj\Debug\net8.0\static_members.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\obj\Debug\net8.0\static_members.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\obj\Debug\net8.0\static_members.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\obj\Debug\net8.0\static_members.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\obj\Debug\net8.0\static_members.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\obj\Debug\net8.0\refint\static_members.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\obj\Debug\net8.0\static_members.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\obj\Debug\net8.0\static_members.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\static_members\obj\Debug\net8.0\ref\static_members.dll
