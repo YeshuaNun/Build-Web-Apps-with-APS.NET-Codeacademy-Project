@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\bin\Debug\net8.0\basic_classes_and_objects.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\bin\Debug\net8.0\basic_classes_and_objects.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\bin\Debug\net8.0\basic_classes_and_objects.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\bin\Debug\net8.0\basic_classes_and_objects.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\bin\Debug\net8.0\basic_classes_and_objects.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\obj\Debug\net8.0\basic_classes_and_objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\obj\Debug\net8.0\basic_classes_and_objects.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\obj\Debug\net8.0\basic_classes_and_objects.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\obj\Debug\net8.0\basic_classes_and_objects.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\obj\Debug\net8.0\basic_classes_and_objects.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\obj\Debug\net8.0\basic_classes_and_objects.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\obj\Debug\net8.0\refint\basic_classes_and_objects.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\obj\Debug\net8.0\basic_classes_and_objects.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\obj\Debug\net8.0\basic_classes_and_objects.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 6 Classes and Objects\basic_classes_and_objects\obj\Debug\net8.0\ref\basic_classes_and_objects.dll
