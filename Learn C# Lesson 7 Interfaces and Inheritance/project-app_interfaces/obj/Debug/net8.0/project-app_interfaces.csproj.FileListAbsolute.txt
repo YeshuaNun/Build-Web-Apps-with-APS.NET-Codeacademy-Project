@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\bin\Debug\net8.0\project-app_interfaces.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\bin\Debug\net8.0\project-app_interfaces.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\bin\Debug\net8.0\project-app_interfaces.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\bin\Debug\net8.0\project-app_interfaces.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\bin\Debug\net8.0\project-app_interfaces.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\obj\Debug\net8.0\project-app_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\obj\Debug\net8.0\project-app_interfaces.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\obj\Debug\net8.0\project-app_interfaces.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\obj\Debug\net8.0\project-app_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\obj\Debug\net8.0\project-app_interfaces.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\obj\Debug\net8.0\project-app_interfaces.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\obj\Debug\net8.0\refint\project-app_interfaces.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\obj\Debug\net8.0\project-app_interfaces.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\obj\Debug\net8.0\project-app_interfaces.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 7 Interfaces and Inheritance\project-app_interfaces\obj\Debug\net8.0\ref\project-app_interfaces.dll
