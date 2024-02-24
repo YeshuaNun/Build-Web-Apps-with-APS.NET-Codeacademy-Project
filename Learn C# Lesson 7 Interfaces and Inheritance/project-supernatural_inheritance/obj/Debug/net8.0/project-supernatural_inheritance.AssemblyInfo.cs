@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("project-supernatural_inheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9e47a37c2078d6f002b01ece5ea42182ae50594")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8b6eb4074d22e87653daf557996a898ffbe8805")]
 [assembly: System.Reflection.AssemblyProductAttribute("project-supernatural_inheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("project-supernatural_inheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
