@@ -23,6 +23,7 @@ This lesson discussed the use of the word **static** in C#. It covered the follo
 - A static method cannot access non-static members.
 - A static constructor is run once per type, not per instance. It is invoked before the type is instantiated or a static member is accessed.
 - Either of these would trigger the static constructor of Forest:
+
 public static void Main() {
   Forest f  = new Forest(); 
 }
