@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\bin\Debug\net8.0\reference_fundamentals.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\bin\Debug\net8.0\reference_fundamentals.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\bin\Debug\net8.0\reference_fundamentals.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\bin\Debug\net8.0\reference_fundamentals.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\bin\Debug\net8.0\reference_fundamentals.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\obj\Debug\net8.0\reference_fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\obj\Debug\net8.0\reference_fundamentals.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\obj\Debug\net8.0\reference_fundamentals.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\obj\Debug\net8.0\reference_fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\obj\Debug\net8.0\reference_fundamentals.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\obj\Debug\net8.0\reference_fundamentals.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\obj\Debug\net8.0\refint\reference_fundamentals.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\obj\Debug\net8.0\reference_fundamentals.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\obj\Debug\net8.0\reference_fundamentals.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\reference_fundamentals\obj\Debug\net8.0\ref\reference_fundamentals.dll
