@@ -18,7 +18,12 @@ namespace MagicalInheritance
          Console.WriteLine(testPupilACast.Announce());
          Mage testMageA = new Mage("Gul'dan");
          Storm testMageACast = testMageA.CastRainStorm();
-         Console.WriteLine(testMageACast.Announce());     
+         Console.WriteLine(testMageACast.Announce());
+         Archmage testArchmageA = new Archmage("Nielas Aran");
+         Storm testArchmageACastRain = testArchmageA.CastRainStorm();
+         Storm testArchmageACastLightning = testArchmageA.CastLightningStorm();
+         Console.WriteLine(testArchmageACastRain.Announce());
+         Console.WriteLine(testArchmageACastLightning.Announce());     
     }
   }
 }
