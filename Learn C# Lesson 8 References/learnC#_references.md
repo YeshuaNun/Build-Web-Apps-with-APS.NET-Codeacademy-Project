@@ -29,3 +29,6 @@ This lesson focused on extending the understanding of objects in C#. It covered 
 
 This link provides information on the Object Class and its specific methods:
 https://learn.microsoft.com/en-us/dotnet/api/system.object?view=net-8.0
+
+# Lesson: String, The Exception
+
