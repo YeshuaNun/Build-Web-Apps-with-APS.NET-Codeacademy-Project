@@ -19,3 +19,13 @@ There was a lot covered in this lesson. During the course of this lesson I leanr
 - Referencing an object by a derived class is called downcasting, which must be made explicit by adding the type name in parentheses. It may cause an InvalidCastException error when the code is run
 - To signify that a reference is “empty” or refers to no object, we set it equal to null
 - If a reference is not set to any value it is unassigned and cannot perform any operations
+
+# Lesson: The Object Class
+
+This lesson focused on extending the understanding of objects in C#. It covered the following concepts:
+- Every type, eventually, inherits from Object
+- Object members include **Equals()**, **ToString()**, and **GetType()**
+- The **ToString()** method allows **Console.WriteLine()** to work for all types
+
+This link provides information on the Object Class and its specific methods:
+https://learn.microsoft.com/en-us/dotnet/api/system.object?view=net-8.0
