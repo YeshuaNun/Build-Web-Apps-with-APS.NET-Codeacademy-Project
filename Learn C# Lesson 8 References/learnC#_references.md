@@ -32,3 +32,13 @@ https://learn.microsoft.com/en-us/dotnet/api/system.object?view=net-8.0
 
 # Lesson: String, The Exception
 
+This lesson expanded on the concept of references and explained the nuances of the string type. It covered the following concepts:
+- The **String** or **string** type is a reference type
+- Strings are immutable, which means they cannot be changed after they are created
+- Being immutable also means that a string reference will always point to the original object, so “modifying” one reference to a string will not affect other references to it
+- With the equality operator (==), strings are checked for value, not referential, equality
+- A string variable can be unassigned, null, or empty. Empty strings can be represented by String.Empty or "" — they’re equivalent
+
+This link provides information on the specifics of the string class:
+https://learn.microsoft.com/en-us/dotnet/api/system.string?view=net-8.0
+
