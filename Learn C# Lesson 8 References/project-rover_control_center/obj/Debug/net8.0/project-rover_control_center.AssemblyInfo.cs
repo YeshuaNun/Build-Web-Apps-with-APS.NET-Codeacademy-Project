@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("project-rover_control_center")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7cd7d97d8b928022d3954830df1ba94a1f51569e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba87e8a2adbe8cf2e7a511b42f8e8589ec3484bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("project-rover_control_center")]
 [assembly: System.Reflection.AssemblyTitleAttribute("project-rover_control_center")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
