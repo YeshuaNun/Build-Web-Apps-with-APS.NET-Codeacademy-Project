@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\bin\Debug\net8.0\string_the_exception.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\bin\Debug\net8.0\string_the_exception.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\bin\Debug\net8.0\string_the_exception.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\bin\Debug\net8.0\string_the_exception.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\bin\Debug\net8.0\string_the_exception.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\obj\Debug\net8.0\string_the_exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\obj\Debug\net8.0\string_the_exception.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\obj\Debug\net8.0\string_the_exception.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\obj\Debug\net8.0\string_the_exception.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\obj\Debug\net8.0\string_the_exception.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\obj\Debug\net8.0\string_the_exception.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\obj\Debug\net8.0\refint\string_the_exception.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\obj\Debug\net8.0\string_the_exception.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\obj\Debug\net8.0\string_the_exception.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\string_the_exception\obj\Debug\net8.0\ref\string_the_exception.dll
