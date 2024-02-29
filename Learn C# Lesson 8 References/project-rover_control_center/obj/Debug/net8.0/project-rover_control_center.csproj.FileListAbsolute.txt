@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\bin\Debug\net8.0\project-rover_control_center.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\bin\Debug\net8.0\project-rover_control_center.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\bin\Debug\net8.0\project-rover_control_center.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\bin\Debug\net8.0\project-rover_control_center.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\bin\Debug\net8.0\project-rover_control_center.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\obj\Debug\net8.0\project-rover_control_center.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\obj\Debug\net8.0\project-rover_control_center.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\obj\Debug\net8.0\project-rover_control_center.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\obj\Debug\net8.0\project-rover_control_center.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\obj\Debug\net8.0\project-rover_control_center.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\obj\Debug\net8.0\project-rover_control_center.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\obj\Debug\net8.0\refint\project-rover_control_center.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\obj\Debug\net8.0\project-rover_control_center.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\obj\Debug\net8.0\project-rover_control_center.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 8 References\project-rover_control_center\obj\Debug\net8.0\ref\project-rover_control_center.dll
