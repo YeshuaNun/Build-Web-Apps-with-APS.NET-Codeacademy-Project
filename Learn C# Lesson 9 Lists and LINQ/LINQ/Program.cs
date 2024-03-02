@@ -146,19 +146,106 @@ using System.Linq;
 //   }
 // }
 
+// namespace LearnLinq
+// {
+//   class Program
+//   {
+//     static void Main()
+//     {
+//       string[] heroes = { "D. Va", "Lucio", "Mercy", "Soldier 76", "Pharah", "Reinhardt" };
+
+//       var heroesWithI = heroes.Where(h => h.Contains("i"));
+      
+//       foreach (var h in heroesWithI) {
+//         Console.WriteLine(h);
+//       }
+//     }
+//   }
+// }
+
+// namespace LearnLinq
+// {
+//   class Program
+//   {
+//     static void Main()
+//     {
+//       string[] heroes = { "D. Va", "Lucio", "Mercy", "Soldier 76", "Pharah", "Reinhardt" };
+
+//       var heoresWithC = heroes.Where(h => h.Contains("c"));
+//       var lowerHeroesWithC = heoresWithC.Select(h => h.ToLower());
+
+//       var sameResult = heroes.Where(h => h.Contains("c")).Select(h => h.ToLower());
+
+//       foreach (var h in sameResult) {
+//         Console.WriteLine(h);
+//       }
+//     }
+//   }
+// }
+
+// namespace LearnLinq
+// {
+//   class Program
+//   {
+//     static void Main()
+//     {
+//       string[] heroes = { "D. Va", "Lucio", "Mercy", "Soldier 76", "Pharah", "Reinhardt" };
+
+//       var introMethodHeroes = heroes.Select(h => $"Introducing...{h}!");
+
+//       var indexQueryHeroes = from h in heroes
+//       where h.Contains(" ")
+//       select h.IndexOf(" ");
+
+//       foreach (var h in introMethodHeroes) {
+//         Console.WriteLine(h);
+//       }
+
+//       foreach (var h in indexQueryHeroes) {
+//         Console.WriteLine(h);
+//       }
+//     }
+//   }
+// }
+
+// namespace LearnLinq
+// {
+//   class Program
+//   {
+//     static void Main()
+//     {
+//       List<string> heroesList = new List<string> { "D. Va", "Lucio", "Mercy", "Soldier 76", "Pharah", "Reinhardt" };
+
+//       var heroesQuery = heroesList.Where(h => h.Contains(".")||h.Contains("7"));
+//       foreach (var h in heroesQuery) {
+//         Console.WriteLine(h);
+//       }
+//     }
+//   }
+// }
+
 namespace LearnLinq
 {
   class Program
   {
     static void Main()
     {
-      string[] heroes = { "D. Va", "Lucio", "Mercy", "Soldier 76", "Pharah", "Reinhardt" };
-
-      var heroesWithI = heroes.Where(h => h.Contains("i"));
+      List<string> heroesList = new List<string> { "D. Va", "Lucio", "Mercy", "Soldier 76", "Pharah", "Reinhardt" };
       
-      foreach (var h in heroesWithI) {
-        Console.WriteLine(h);
+      // Query syntax
+      var queryResult = from h in heroesList
+        where h.Contains("a")
+        select $"{h} contains an 'a'";
+     
+      // Printing...
+      Console.WriteLine($"queryResult has {queryResult.Count()} elements");
+      
+      foreach (string s in queryResult)
+      {
+        Console.WriteLine(s);
       }
+
+      
     }
   }
 }
