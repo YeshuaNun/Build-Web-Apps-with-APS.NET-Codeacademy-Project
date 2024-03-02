@@ -14,20 +14,23 @@ namespace RoverControlCenter
       MarsRover sojourner = new MarsRover("Sojourner", 1997);
       Satellite sputnik = new Satellite("Sputnik", 1957);
 
-      Rover[] rovers = {lunokhod, apollo, sojourner};
-      DirectAll(rovers);
+      // Rover[] rovers = {lunokhod, apollo, sojourner};
+      // DirectAll(rovers);
 
       Object[] probes = {lunokhod, apollo, sojourner, sputnik};
       foreach (Object probe in probes) {
         Console.WriteLine($"Tracking a {probe.GetType()}.");
       }
+
+      IDirectable[] newProbes = {lunokhod, apollo, sojourner, sputnik};
+      DirectAll(newProbes);
     }
 
-    public static void DirectAll(Rover[] rovers) {
-        foreach (Rover rover in rovers) {
-            Console.WriteLine(rover.GetInfo());
-            Console.WriteLine(rover.Explore());
-            Console.WriteLine(rover.Collect());
+    public static void DirectAll(IDirectable[] probes) {
+        foreach (IDirectable probe in probes) {
+            Console.WriteLine(probe.GetInfo());
+            Console.WriteLine(probe.Explore());
+            Console.WriteLine(probe.Collect());
         }
     } 
   }
