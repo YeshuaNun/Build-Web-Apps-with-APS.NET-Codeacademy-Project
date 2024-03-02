@@ -16,3 +16,13 @@ This lesson looked at lists and an alternative way to store several values withi
 
 The documentation for list is found here:
 https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=net-8.0
+
+# Lesson: LINQ
+In the course of this lesson, concepts such as:
+- How to import the LINQ features to C#
+- How to run LINQ queries on datasets
+- How to identify method and query syntax
+- Basic operators, such as **Select**, **Where**, and **from**
+
+are taught.
+
