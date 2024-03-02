@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\bin\Debug\net8.0\project-programming_languages.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\bin\Debug\net8.0\project-programming_languages.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\bin\Debug\net8.0\project-programming_languages.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\bin\Debug\net8.0\project-programming_languages.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\bin\Debug\net8.0\project-programming_languages.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\obj\Debug\net8.0\project-programming_languages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\obj\Debug\net8.0\project-programming_languages.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\obj\Debug\net8.0\project-programming_languages.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\obj\Debug\net8.0\project-programming_languages.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\obj\Debug\net8.0\project-programming_languages.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\obj\Debug\net8.0\project-programming_languages.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\obj\Debug\net8.0\refint\project-programming_languages.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\obj\Debug\net8.0\project-programming_languages.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\obj\Debug\net8.0\project-programming_languages.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\project-programming_languages\obj\Debug\net8.0\ref\project-programming_languages.dll
