@@ -48,24 +48,116 @@ using System.Linq;
 //   }
 // }
 
+// namespace LearnLinq
+// {
+//   class Program
+//   {
+//     static void Main()
+//     {
+//       List<string> heroes = new List<string> { "D. Va", "Lucio", "Mercy", "Soldier 76", "Pharah", "Reinhardt" };
+  
+//       var shortHeroes = from h in heroes
+//                         where h.Length < 8
+//                         select h;
+
+//       // Printing...
+//       Console.WriteLine("Your short heroes are...");
+      
+//       foreach (string hero in shortHeroes)
+//       {
+//         Console.WriteLine(hero);
+//       }
+//     }
+//   }
+// }
+
+// namespace LearnLinq
+// {
+//   class Program
+//   {
+//     static void Main()
+//     {
+//       List<string> heroes = new List<string> { "D. Va", "Lucio", "Mercy", "Soldier 76", "Pharah", "Reinhardt" };
+      
+//       var shortHeroes = from h in heroes
+//       where h.Length < 8
+//       select h;
+
+//       foreach (var h in shortHeroes) {
+//         Console.WriteLine(h);
+//       }
+
+//       var longHeroes = heroes.Where(nameof => nameof.Length > 8);
+
+//       Console.WriteLine(longHeroes.Count());
+//     }
+//   }
+// }
+
+// namespace LearnLinq
+// {
+//   class Program
+//   {
+//     static void Main()
+//     {
+//       string[] heroes = { "D. Va", "Lucio", "Mercy", "Soldier 76", "Pharah", "Reinhardt" };
+
+//       // Query syntax
+//       var queryResult = from x in heroes
+//                         where x.Contains("a")
+//                         select $"{x} contains an 'a'";
+      
+//       // Method syntax
+//       var methodResult = heroes
+//         .Where(x => x.Contains("a"))
+//         .Select(x => $"{x} contains an 'a'");
+     
+//       // Printing...
+//       Console.WriteLine("queryResult:");
+//       foreach (string s in queryResult)
+//       {
+//         Console.WriteLine(s);
+//       }
+      
+//       Console.WriteLine("\nmethodResult:");
+//       foreach (string s in methodResult)
+//       {
+//         Console.WriteLine(s);
+//       }
+//     }
+//   }
+// }
+
+// namespace LearnLinq
+// {
+//   class Program
+//   {
+//     static void Main()
+//     {
+//       string[] heroes = { "D. Va", "Lucio", "Mercy", "Soldier 76", "Pharah", "Reinhardt" };
+
+//       var heroesWithI = from h in heroes
+//       where h.Contains("i")
+//       select h;
+
+//       var underscored = from h in heroes
+//       select $"{h}_";
+//     }
+//   }
+// }
+
 namespace LearnLinq
 {
   class Program
   {
     static void Main()
     {
-      List<string> heroes = new List<string> { "D. Va", "Lucio", "Mercy", "Soldier 76", "Pharah", "Reinhardt" };
-  
-      var shortHeroes = from h in heroes
-                        where h.Length < 8
-                        select h;
+      string[] heroes = { "D. Va", "Lucio", "Mercy", "Soldier 76", "Pharah", "Reinhardt" };
 
-      // Printing...
-      Console.WriteLine("Your short heroes are...");
+      var heroesWithI = heroes.Where(h => h.Contains("i"));
       
-      foreach (string hero in shortHeroes)
-      {
-        Console.WriteLine(hero);
+      foreach (var h in heroesWithI) {
+        Console.WriteLine(h);
       }
     }
   }
