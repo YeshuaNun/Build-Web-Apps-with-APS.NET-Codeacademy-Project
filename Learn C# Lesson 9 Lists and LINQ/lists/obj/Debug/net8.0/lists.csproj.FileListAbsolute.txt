@@ -1,0 +1,15 @@
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\bin\Debug\net8.0\lists.exe
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\bin\Debug\net8.0\lists.deps.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\bin\Debug\net8.0\lists.runtimeconfig.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\bin\Debug\net8.0\lists.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\bin\Debug\net8.0\lists.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\obj\Debug\net8.0\lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\obj\Debug\net8.0\lists.AssemblyInfoInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\obj\Debug\net8.0\lists.AssemblyInfo.cs
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\obj\Debug\net8.0\lists.csproj.CoreCompileInputs.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\obj\Debug\net8.0\lists.sourcelink.json
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\obj\Debug\net8.0\lists.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\obj\Debug\net8.0\refint\lists.dll
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\obj\Debug\net8.0\lists.pdb
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\obj\Debug\net8.0\lists.genruntimeconfig.cache
+C:\Users\jandr\OneDrive\Josh USB Stick\Coding Projects\Build Web Apps with ASP.NET -\Learn C# Lesson 9 Lists and LINQ\lists\obj\Debug\net8.0\ref\lists.dll
