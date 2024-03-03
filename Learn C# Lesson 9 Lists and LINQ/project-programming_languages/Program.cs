@@ -43,14 +43,15 @@ namespace ProgrammingLanguages
 
       var scriptQuery = languages.Where(l => l.Name.Contains("Script")).Select(l => l.Name);
       PrintAll(scriptQuery);
-      
-    //   Console.WriteLine(languages.Count());
 
-    //   var between1995And2005 = languages.Where(l => l.Year>=1995&&l.Year<=2005).Select(l => $"{l.Name} was invented in {l.Year}");
-    //   Console.WriteLine(between1995And2005.Count());
-    //   foreach (var l in between1995And2005) {
-    //     Console.WriteLine(l);
-    //   }
+            //   Console.WriteLine(languages.Count());
+
+            //   var between1995And2005 = languages.Where(l => l.Year>=1995&&l.Year<=2005).Select(l => $"{l.Name} was invented in {l.Year}");
+            //   Console.WriteLine(between1995And2005.Count());
+            //   foreach (var l in between1995And2005) {
+            //     Console.WriteLine(l);
+            //   }
+            Console.ReadLine();
     }
 
     public static void PrettyPrintAll(IEnumerable<Language> langs)
